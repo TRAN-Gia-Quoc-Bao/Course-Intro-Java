@@ -10,4 +10,6 @@ Exercises: Two introductory exercises
 
 Project: Occupancy estimator with Java
 
+By: Gia Quoc Bao TRAN 
+
 ![UGA logo](https://github.com/TRAN-Gia-Quoc-Bao/Course-Intro-Java/blob/main/logoUGA.jpg)
